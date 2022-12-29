@@ -53,8 +53,8 @@
 
     <distributionManagement>
         <repository>
-            <id>jordanosterberg-repo</id>
-            <url>https://nexus-repo.jordanosterberg.com/repository/maven-releases/</url>
+            <id>heartbyte-maven</id>
+            <url>https://maven.heartbyte.net/snapshots</url>
         </repository>
     </distributionManagement>
 
